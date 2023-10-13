@@ -81,7 +81,7 @@
     }
     .nav-links {
         flex-direction: column;
-        gap: 0.5 rem;
+        gap: 1rem;
         text-align: center;
     }
     .section__pic-container {
