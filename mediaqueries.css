@@ -40,6 +40,13 @@
     .about-containers {
         margin-top: 0;
     }
+    model-viewer {
+        width: 378px;
+        height: 275px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -81,6 +88,13 @@
         width: auto;
         height: 46vw;
         justify-content: center;
+    }
+    model-viewer {
+        width: auto;
+        height: 46vw;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
     .section__text__p2 {
         font-size: 1.25rem;
